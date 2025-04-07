@@ -13,7 +13,7 @@ This space is my digital garage, a home for passion projects, experiments, and i
 - RESTful API integration 
 - Data visualization 
 
-🚧 Currently building a Valorant performance tracker inspired by Tracker.gg 
+🚧 Currently building a multi purpose Discord bot
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/jto24/)
